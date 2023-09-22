@@ -32,7 +32,8 @@ while True:
 
 print('Obrigado por utilizar a lista!')
 
-
+def new_func():
+    
 
 
 
